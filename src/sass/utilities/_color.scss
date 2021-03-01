@@ -5,3 +5,11 @@
 .orangeish {
     color: $color-orange;
 }
+
+.image-cropper {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+}
