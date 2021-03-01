@@ -216,7 +216,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Book theme
     - name: 'twitter:image'
-      value: images/978.png
+      value: images/9780367343729.tif
       relativeUrl: true
 template: advanced
 ---
