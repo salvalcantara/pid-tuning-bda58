@@ -32,14 +32,22 @@ sections:
     features:
       - title: Highlights
         subtitle: "The PID controller is the most common option in the realm of control applications and is dominant in the process control industry. Among the related analytical methods, Internal Model Control (IMC) has gained remarkable industrial acceptance due to its robust nature and good set-point responses. However, the traditional application of IMC results in poor load disturbance rejection for lag-dominant and integrating plants. This book presents an IMC-like design method which avoids this common pitfall and is devised to work well for plants of modest complexity, for which analytical PID tuning is plausible. For simplicity, the design only focuses on the closed-loop sensitivity function, including formulations for the H∞\_and H2\_norms. Aimed at graduate students and researchers in control engineering, this book:"
-        content: |-
-          - All you need to know about PPC
-          - How to create a brand that sells
-          - Putting together a multi-channel marketing plan
-          - Tracking, attribution and analytics
-          - Analyzing your competitors
-          - Marketing ads no one can ignore
-          - The social media of today
+        content: >
+          *   Considers both the robustness/performance and the servo/regulation
+          trade-offs
+
+          *   Presents a systematic, optimization-based approach, ultimately
+          leading to well-motivated, model-based, and analytically derived
+          tuning rules
+
+          *   Shows how to tune PID controllers in a unified way, encompassing
+          stable, integrating, and unstable processes
+
+          *   Finds in the Weighted Sensitivity Problem the sweet spot of
+          robust, optimal, and PID control
+
+          *   Provides a common analytical framework that generalizes existing
+          tuning proposals
         actions:
           - label: Start learning
             url: /thank-you
