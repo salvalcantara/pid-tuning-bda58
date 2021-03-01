@@ -49,9 +49,12 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: |-
-          “This book is inspiring and practical. It’s thought-provoking and full
-          of examples which definitely motivates me”
+      - title: >-
+          “The book studies the design problem with emphasis on the simple and
+          effective PID controller. The analytical method proposed by the book
+          yields good performance, is motivated by a rigorous framework, and
+          simplifies the design process as much as possible. This is the concern
+          of engineers.”
         subtitle: 'Hilary Ouse, Sr. Marketing Manager at Company'
         image: images/weidong.jpg
         image_alt: Brandon Guidelines
