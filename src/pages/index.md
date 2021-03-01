@@ -9,7 +9,7 @@ sections:
       main objective is to show how robustness, performance, and
       servo/regulation requirements translate into the tuning expressions. As
       for the Weighted Sensitivity Problem formulation, we the authors have
-      found that it serves the main purpose very nicely, allowing us to blend
+      found that it serves the main purpose very well, allowing us to blend
       ideas from  H∞ and IMC theories. So, the book can also serve as an
       introduction to these more advanced topics.
     actions:
