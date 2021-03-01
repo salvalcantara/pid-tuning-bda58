@@ -40,7 +40,7 @@ export default class Feature extends React.Component {
                 			{_.get(feature, 'video_embed_html', null) ? (
                 				htmlToReact(_.get(feature, 'video_embed_html', null))
                 			) : 
-                				<img src={withPrefix(_.get(feature, 'image', null))} alt={_.get(feature, 'image_alt', null)} className={classNames({'mx-auto': align_x === 'center', 'ml-auto': align_x === 'right'})} />
+                				<img src={withPrefix(_.get(feature, 'image', null))} alt={_.get(feature, 'image_alt', null)} className={classNames('image-cropper', {'mx-auto': align_x === 'center', 'ml-auto': align_x === 'right'})} />
                 			}
                 		</div>
                 		)}
