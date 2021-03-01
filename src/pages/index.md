@@ -207,17 +207,15 @@ sections:
     features:
       - title: What’s Inside
         subtitle: 'Salva Alcántara, PhD'
-        content: |-
+        content: |
           **Marketing in the real world** is very different than what we learn
           at school. If you've recently graduated and are making your first
           steps in the business, it's imperative that you know how to use the
           tools and tricks of the trade.
 
-
           > **The world of marketing has changed dramatically in the last 10
-          years. Those who understand it, will succeed. But those who stay
-          behind, will have a lot to catch up on.”**
-
+          > years. Those who understand it, will succeed. But those who stay
+          > behind, will have a lot to catch up on.”**
 
           In this book I will teach you everything I know about B2B marketing.
           From branding, marketing planning, content creation, SEO and PPC, to
