@@ -83,7 +83,7 @@ export default class GridItem extends React.Component {
                 					</p>
                 					)}
                 					{_.get(item, 'content', null) && (
-                					<div className={classNames('item__copy', {'text-center': content_align_x === 'center', 'text-right': content_align_x === 'right'})}>
+                					<div className={classNames('item__copy blueish', {'text-center': content_align_x === 'center', 'text-right': content_align_x === 'right'})}>
                 						{markdownify(_.get(item, 'content', null))}
                 					</div>
                 					)}
