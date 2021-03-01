@@ -50,11 +50,9 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “The book studies the design problem with emphasis on the simple and
-          effective PID controller. The analytical method proposed by the book
-          yields good performance, is motivated by a rigorous framework, and
-          simplifies the design process as much as possible. This is the concern
-          of engineers.”
+          “The analytical method proposed by the book yields good performance,
+          is motivated by a rigorous framework, and simplifies the design
+          process as much as possible. This is the concern of engineers.”
         subtitle: 'Professor Weidong Zhang, Shanghai Jiao Tong University'
         image: images/weidong.jpg
         image_alt: Brandon Guidelines
