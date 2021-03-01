@@ -110,8 +110,8 @@ sections:
           Google, Facebook, TikTok, LinkedIn — what should you use, and how? And
           how do you know that it's actually working? Build a social media
           strategy like a pro.
-      - content: |-
-          ### Seeing What Works
+      - content: |
+          ### Generalized IMC design and H2 approach
 
           There is no shortage of analytics tools for marketing campaigns —
           email platforms, data centers, campaign dashboards and app
