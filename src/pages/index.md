@@ -110,7 +110,6 @@ sections:
           What you should be writing about, where it should be published, who
           should read it, and what difference does it make. A comprehensive
           guide to content marketing.
-
       - content: |
           ### Generalized IMC design and H2 approach
 
