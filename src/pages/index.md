@@ -110,7 +110,6 @@ sections:
 
           Know your PPC from your CPA and CTR — a quick start guide to
           performance marketing channels, setups, budgeting and creative.
-
       - content: |
           ### Hinfinity design with application to PI tuning
 
