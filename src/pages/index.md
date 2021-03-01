@@ -86,8 +86,8 @@ sections:
 
           Discovery, research and pure intuition: How to slice and dice all the
           information you can gather about your customers.
-      - content: >-
-          ### Performance Marketing
+      - content: >
+          ### Analysis of the smooth/tight-servo/regulation tuning approaches
 
 
           Know your PPC from your CPA and CTR — a quick start guide to
