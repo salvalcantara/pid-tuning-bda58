@@ -17,7 +17,7 @@ sections:
         url: >-
           https://www.amazon.com/-/es/Salvador-Alc%C3%A1ntara-Cano-ebook/dp/B08NCNRBKG/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=pid+tuning+alc%C3%A1ntara&qid=1614573662&sr=8-1
         style: primary
-        has_icon: true
+        has_icon: false
         icon: arrow-right
         icon_position: right
     image: images/9780367343729.tif
