@@ -86,18 +86,17 @@ sections:
 
           Discovery, research and pure intuition: How to slice and dice all the
           information you can gather about your customers.
-      - content: |
-          ### Simple model-matching approach to robust PID design
-
-          A brand is merely a collection of touchpoints between your company and
-          your customers. Learn how to make those interactions count.
       - content: >
           ### Analysis of the smooth/tight-servo/regulation tuning approaches
 
 
           Know your PPC from your CPA and CTR — a quick start guide to
           performance marketing channels, setups, budgeting and creative.
+      - content: |
+          ### Simple model-matching approach to robust PID design
 
+          A brand is merely a collection of touchpoints between your company and
+          your customers. Learn how to make those interactions count.
       - content: |
           ### Hinfinity design with application to PI tuning
 
