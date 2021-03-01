@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: PID Tuning
-    subtitle: Your guide to B2B marketing in the real world.
+    subtitle: A modern approach via the Weighted Sensitivity Problem.
     content: |-
       This book is your go-to guide for all marketing channels. Learn how to
       create effective landing pages, compelling ads, creative copywriting and
