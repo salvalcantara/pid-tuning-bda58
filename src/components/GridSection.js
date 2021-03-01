@@ -25,7 +25,7 @@ export default class GridSection extends React.Component {
             	<div className="cover-img" style={toStyleObj('background-image: url(\'' + withPrefix(_.get(section, 'background_image', null)) + '\'); opacity: ' + bg_img_opacity + '; background-size: ' + bg_img_size + '; background-repeat: ' + bg_img_repeat + '; background-position: ' + bg_img_position)}/>
             	)}
             	{(_.get(section, 'title', null) || _.get(section, 'subtitle', null)) && (
-            	<div className={classNames('container blueish', 'container--medium', {'mb-5': (grid_gap_y === 'small') || (grid_gap_y === 'medium'), 'mb-4': grid_gap_y === 'large', 'text-center': align_x === 'center', 'text-right': align_x === 'right'})}>
+            	<div className={classNames('container', 'container--medium', {'mb-5': (grid_gap_y === 'small') || (grid_gap_y === 'medium'), 'mb-4': grid_gap_y === 'large', 'text-center': align_x === 'center', 'text-right': align_x === 'right'})}>
             		{_.get(section, 'subtitle', null) && (
             		<div className="section__subtitle">{_.get(section, 'subtitle', null)}</div>
             		)}
