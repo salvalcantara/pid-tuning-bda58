@@ -4,10 +4,8 @@ sections:
   - type: hero_section
     title: PID Tuning
     subtitle: A modern approach via the Weighted Sensitivity Problem
-    content: |-
-      This book is your go-to guide for all marketing channels. Learn how to
-      create effective landing pages, compelling ads, creative copywriting and
-      converting marketing materials for any business.
+    content: |
+      This book bla bla bla
     actions:
       - label: Get the book
         url: /pricing
