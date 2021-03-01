@@ -78,7 +78,7 @@ export default class GridItem extends React.Component {
                 						<h2 className={classNames('item__title', {'h3': columns === 'two', 'h4': columns === 'three', 'h5': columns === 'four', 'text-center': title_align_x === 'center', 'text-right': title_align_x === 'right'})}>{_.get(item, 'title', null)}</h2>
                 					)}
                 					{_.get(item, 'subtitle', null) && (
-                					<p className={classNames('item__subtitle blu', {'text-center': title_align_x === 'center', 'text-right': title_align_x === 'right'})}>
+                					<p className={classNames('item__subtitle blueish', {'text-center': title_align_x === 'center', 'text-right': title_align_x === 'right'})}>
                 						{_.get(item, 'subtitle', null)}
                 					</p>
                 					)}
