@@ -114,31 +114,6 @@ sections:
     enable_cards: false
     align: center
     background_color: none
-  - type: features_section
-    features:
-      - title: Practical Exercises
-        subtitle: How you'll implement what you learn
-        content: |-
-          - Multi-channel marketing plan tutorials
-          - Brand questionnaire and worksheet
-          - Practice PPC campaigns
-          - 1hr consultation with a marketing guru
-          - Landing page templates
-          - Effective sales presentation starter
-        actions:
-          - label: Start learning
-            url: /thank-you
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/book-inside-2.png
-        image_alt: Look inside Marketing Playbook
-        media_position: left
-        media_width: fifty
-    feature_padding_vert: small
-    align: center
-    background_color: none
   - type: grid_section
     title: Who Should Read This Book?
     grid_items:
