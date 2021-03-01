@@ -31,7 +31,7 @@ sections:
   - type: features_section
     features:
       - title: Highlights
-        subtitle: How this book will teach you real world marketing
+        subtitle: "The PID controller is the most common option in the realm of control applications and is dominant in the process control industry. Among the related analytical methods, Internal Model Control (IMC) has gained remarkable industrial acceptance due to its robust nature and good set-point responses. However, the traditional application of IMC results in poor load disturbance rejection for lag-dominant and integrating plants. This book presents an IMC-like design method which avoids this common pitfall and is devised to work well for plants of modest complexity, for which analytical PID tuning is plausible. For simplicity, the design only focuses on the closed-loop sensitivity function, including formulations for the H∞\_and H2\_norms. Aimed at graduate students and researchers in control engineering, this book:"
         content: |-
           - All you need to know about PPC
           - How to create a brand that sells
