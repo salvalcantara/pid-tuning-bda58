@@ -232,7 +232,7 @@ sections:
     align: center
     background_color: none
   - type: cta_section
-    title: Download the e-book today
+    title: Get the book today
     actions:
       - label: Buy Now
         url: >-
