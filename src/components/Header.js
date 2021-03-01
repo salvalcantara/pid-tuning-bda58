@@ -14,7 +14,7 @@ export default class Header extends React.Component {
             			<Link className="sr-only" to="#content">Skip to main content</Link>
             			<div className="navbar__branding mr-2">
             				{_.get(this.props, 'pageContext.site.siteMetadata.header.logo', null) ? (
-            				<Link className="navbar__logo m-0" to={withPrefix('/')}><img height="32px" src={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.header.logo', null))} alt={_.get(this.props, 'pageContext.site.siteMetadata.header.logo_alt', null)} /></Link>
+            				<Link className="navbar__logo m-0" to={withPrefix('/')}><img height="50%" src={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.header.logo', null))} alt={_.get(this.props, 'pageContext.site.siteMetadata.header.logo_alt', null)} /></Link>
             				) : 
             				<Link className="navbar__title h4 m-0" to={withPrefix('/')}>{_.get(this.props, 'pageContext.site.siteMetadata.header.title', null)}</Link>
             				}
