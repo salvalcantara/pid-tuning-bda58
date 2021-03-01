@@ -160,7 +160,7 @@ sections:
     background_image_opacity: 10
   - type: features_section
     features:
-      - title: What’s Inside
+      - title: Why this book?
         subtitle: 'Salva Alcántara, PhD'
         content: |
           **Marketing in the real world** is very different than what we learn
