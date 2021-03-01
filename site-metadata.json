@@ -118,7 +118,7 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Salva Alcántara. Might the cybernetics be with you! Made with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>."
+        "content": "&copy; Salva Alcántara. Made with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Might the cybernetics be with you!"
     },
     "title": "Stackbit Book Theme",
     "domain": "https://pid-tuning-bda58.netlify.app"
