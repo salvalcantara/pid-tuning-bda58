@@ -50,7 +50,7 @@ export default class Feature extends React.Component {
                 				_.get(section, 'title', null) ? (
                 				<h3 className="feature__title h2">{_.get(feature, 'title', null)}</h3>
                 				) : 
-                				<h2 className="feature__title h2 blueish">{_.get(feature, 'title', null)}</h2>
+                				<h2 className="feature__title h2">{_.get(feature, 'title', null)}</h2>
                 			)}
                 			{_.get(feature, 'subtitle', null) && (
                 			<p className="feature__subtitle">{_.get(feature, 'subtitle', null)}</p>
