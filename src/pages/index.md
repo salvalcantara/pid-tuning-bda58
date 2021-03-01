@@ -116,7 +116,7 @@ sections:
           There is no shortage of analytics tools for marketing campaigns —
           email platforms, data centers, campaign dashboards and app
           attribution... How to choose the right tools that will work for you.
-    grid_cols: one
+    grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: small
     enable_cards: false
