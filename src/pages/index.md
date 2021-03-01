@@ -123,7 +123,7 @@ sections:
           email platforms, data centers, campaign dashboards and app
           attribution... How to choose the right tools that will work for you.
       - content: |
-          ### 
+          ### PID tuning guidelines for balanced operation
 
           There is no shortage of analytics tools for marketing campaigns —
           email platforms, data centers, campaign dashboards and app
