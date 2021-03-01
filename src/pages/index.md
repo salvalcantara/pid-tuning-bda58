@@ -177,7 +177,7 @@ sections:
     align: center
     background_color: none
   - type: cta_section
-    title: Get the book. Stay tuned!
+    title: Might the cybernetics be with you!
     actions:
       - label: Buy Now
         url: >-
