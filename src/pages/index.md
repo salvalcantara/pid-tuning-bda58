@@ -117,7 +117,7 @@ sections:
           email platforms, data centers, campaign dashboards and app
           attribution... How to choose the right tools that will work for you.
       - content: |
-          ### Generalized IMC design and H2 approach
+          ### H-infinity design 
 
           There is no shortage of analytics tools for marketing campaigns —
           email platforms, data centers, campaign dashboards and app
