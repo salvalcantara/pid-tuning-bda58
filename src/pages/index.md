@@ -55,7 +55,7 @@ sections:
           yields good performance, is motivated by a rigorous framework, and
           simplifies the design process as much as possible. This is the concern
           of engineers.”
-        subtitle: 'Hilary Ouse, Sr. Marketing Manager at Company'
+        subtitle: 'Professor Weidong Zhang, Shanghai Jiao Tong University'
         image: images/weidong.jpg
         image_alt: Brandon Guidelines
         media_position: left
