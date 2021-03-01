@@ -105,7 +105,7 @@ sections:
           Know your PPC from your CPA and CTR — a quick start guide to
           performance marketing channels, setups, budgeting and creative.
       - content: |
-          ### Hinfinity design with application to PI tuning
+          ### H\infty , design with application to PI tuning
 
           What you should be writing about, where it should be published, who
           should read it, and what difference does it make. A comprehensive
