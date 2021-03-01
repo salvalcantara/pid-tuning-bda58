@@ -206,7 +206,7 @@ seo:
       value: The preview of the Book theme
       keyName: property
     - name: 'og:image'
-      value: images/book-preview.png
+      value: images/9.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
