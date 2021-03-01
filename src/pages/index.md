@@ -30,7 +30,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: What’s Inside
+      - title: Highlights
         subtitle: How this book will teach you real world marketing
         content: |-
           - All you need to know about PPC
