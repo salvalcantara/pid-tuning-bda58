@@ -73,7 +73,7 @@ export default class GridItem extends React.Component {
                 				<div className={classNames('item__body', {'p-3': has_image && is_card_no_padding, 'px-sm-4': has_image && is_card_no_padding, 'pb-sm-4': (has_image && is_card_no_padding) && (image_pos !== 'bottom'), 'pt-sm-4': (has_image && is_card_no_padding) && (image_pos === 'bottom'), 'py-md-4': (has_image && is_card_no_padding) && is_horiz, 'pr-md-4': (has_image && is_card_no_padding) && (image_pos === 'left'), 'pl-md-3': (has_image && is_card_no_padding) && (image_pos === 'left'), 'pl-md-4': (has_image && is_card_no_padding) && (image_pos === 'right'), 'pr-md-3': (has_image && is_card_no_padding) && (image_pos === 'right')})}>
                 					{_.get(item, 'title', null) && (
                 						_.get(section, 'title', null) ? (
-                						<h3 className={classNames('item__title', {'h3': columns === 'two', 'h4': columns === 'three', 'h5': columns === 'four', 'text-center': title_align_x === 'center', 'text-right': title_align_x === 'right'})}>{_.get(item, 'title', null)}</h3>
+                						<h3 className={classNames('item__title', {'h3': columns === 'two', 'h4': columns === 'three', 'h5': columns === 'four', 'text-center': title_align_x === 'center', 'text-right': title_align_x === 'right'}, )}>{_.get(item, 'title', null)}</h3>
                 						) : 
                 						<h2 className={classNames('item__title', {'h3': columns === 'two', 'h4': columns === 'three', 'h5': columns === 'four', 'text-center': title_align_x === 'center', 'text-right': title_align_x === 'right'})}>{_.get(item, 'title', null)}</h2>
                 					)}
