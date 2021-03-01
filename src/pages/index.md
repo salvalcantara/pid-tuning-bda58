@@ -177,7 +177,7 @@ sections:
     align: center
     background_color: none
   - type: cta_section
-    title: 'Get the book, and stay tuned!'
+    title: 'Get the book, stay tuned!'
     actions:
       - label: Buy Now
         url: >-
