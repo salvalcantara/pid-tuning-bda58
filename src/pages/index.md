@@ -92,6 +92,13 @@ sections:
           A brand is merely a collection of touchpoints between your company and
           your customers. Learn how to make those interactions count.
       - content: >
+          ### Alternative design for load disturbance improvement
+
+
+          Google, Facebook, TikTok, LinkedIn — what should you use, and how? And
+          how do you know that it's actually working? Build a social media
+          strategy like a pro.
+      - content: >
           ### Analysis of the smooth/tight-servo/regulation tuning approaches
 
 
