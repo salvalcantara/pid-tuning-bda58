@@ -27,7 +27,7 @@ export default class Footer extends React.Component {
                 		<div className="container">
                 			<div className={classNames('grid', {'justify-md-center': has_logo === false})}>
                 				{has_logo && (
-                				<Link className="site-footer__logo cell-12 cell-md-5 my-4" to={withPrefix('/')}>
+                				<Link className="site-footer__logo cell-12 cell-md-5 my-4 justify-md-center" to={withPrefix('/')}>
                 					<img src={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.footer.logo', null))} alt={_.get(this.props, 'pageContext.site.siteMetadata.header.logo_alt', null)} />
                 				</Link>
                 				)}
