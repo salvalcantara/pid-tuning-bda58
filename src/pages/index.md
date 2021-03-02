@@ -200,7 +200,7 @@ sections:
     background_image_opacity: 10
 seo:
   title: PID Tuning
-  description: PID Tuning
+  description: PID Tuning preview
   extra:
     - name: 'og:type'
       value: website
