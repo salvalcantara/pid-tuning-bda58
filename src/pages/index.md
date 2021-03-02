@@ -152,10 +152,10 @@ sections:
       - content: |
           #### Graduate students
 
-          *   Gain big picture insights that affect design
-          *   Learn how your design can inspire action
-          *   Make advertisements that convert
-          *   Create digital assets for the right audience
+          *   Learn about Hinfinity and IMC methodologies
+          *   Understand their shortcomings and limitations
+          *   Systematically blend those approaches
+          *   Transition from classic to more advanced control theories
       - content: |
           #### Control researchers
 
