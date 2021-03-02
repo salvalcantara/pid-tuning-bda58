@@ -91,7 +91,7 @@ sections:
           set-point responses. However, as it happens with traditional IMC-based
           tuning rules, the response to load disturbances can be sluggish. This
           chapter proposes a modified Model Matching Problem to address this
-          issue.
+          issue. A new parameter, Gamma, is introduced.
       - content: >
           ### Analysis of the smooth/tight-servo/regulation tuning approaches
 
