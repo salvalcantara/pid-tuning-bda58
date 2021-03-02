@@ -98,8 +98,8 @@ sections:
 
           It makes sense to compare the two approaches seen so far. In
           particular, the first one, as in traditional IMC, is referred to as
-          Lambda Tuning, while the second one introduces a new parameter and is
-          accordingly referred to as Gamma Tuning. This chapter studies the
+          Lambda Tuning, while the second one is called Gamma Tuning (in view of
+          the new Gamma parameter it introduces). This chapter studies the
           limits of each approach.
       - content: >
           ### H∞ design with application to PI tuning
