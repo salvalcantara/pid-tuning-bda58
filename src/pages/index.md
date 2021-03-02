@@ -209,7 +209,7 @@ seo:
       value: PID Tuning
       keyName: property
     - name: 'og:description'
-      value: The preview of PID Tuning
+      value: PID Tuning
       keyName: property
     - name: 'og:image'
       value: images/9780367343729.tif
