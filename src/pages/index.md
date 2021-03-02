@@ -103,7 +103,9 @@ sections:
 
           Based on the accumulated know-how, this chapter proposes a new design
           which combines the strenghts of both the Lambda and Gamma Tuning
-          approaches. The formulation relies on the H∞, or supremum, norm.
+          approaches. The formulation relies on the H∞, or supremum, norm. For
+          simplicity, the discussion only considers the application to PI
+          tuning, leaving the more general PID case for later.
       - content: |
           ### Generalized IMC design and H2 approach
 
