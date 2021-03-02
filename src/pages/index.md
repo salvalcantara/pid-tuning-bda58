@@ -97,12 +97,13 @@ sections:
           Lambda Tuning, while the second one introduces a new parameter and is
           accordingly referred to as Gamma Tuning. Which are the limits of each
           approach and when is one preferred over the other?
-      - content: |
-          ### H&infin; design with application to PI tuning
+      - content: >
+          ### H∞ design with application to PI tuning
 
-          What you should be writing about, where it should be published, who
-          should read it, and what difference does it make. A comprehensive
-          guide to content marketing.
+
+          Based on the accumulated know-how, this chapter proposes a new design
+          which combines the strenghts of both the Lambda and Gamma Tuning
+          approaches. The formulation relies on the H∞, or supremum, norm.
       - content: |
           ### Generalized IMC design and H2 approach
 
