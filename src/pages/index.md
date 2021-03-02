@@ -73,11 +73,12 @@ sections:
 
           Presents a bird's-eye view of the book. Summarizing the motivation and
           main ideas on the chapters to come.
-      - content: |
+      - content: >
           ### Simple model-matching approach to robust PID design
 
-          A brand is merely a collection of touchpoints between your company and
-          your customers. Learn how to make those interactions count.
+
+          A servo-oriented design is presented under the light of Model Matching
+          theory. In particular, the simplest of such problems is addressed.
       - content: >
           ### Alternative design for load disturbance improvement
 
