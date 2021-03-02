@@ -206,7 +206,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Book Theme
+      value: PID Tuning
       keyName: property
     - name: 'og:description'
       value: The preview of PID Tuning
