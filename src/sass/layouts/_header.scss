@@ -17,6 +17,7 @@
     }
 
     img::after {
+        content: 'PID';
         float: right;
         content: 'PID';
         font-size: 20px;
