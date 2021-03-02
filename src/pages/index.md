@@ -218,7 +218,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Book Theme
+      value: PID Tuning
     - name: 'twitter:description'
       value: The preview of PID Tuning
     - name: 'twitter:image'
