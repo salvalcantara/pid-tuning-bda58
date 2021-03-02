@@ -82,7 +82,7 @@ sections:
 
           A servo-oriented design is presented under the light of the simplest
           Model Matching Problem. The resulting PID tuning rules are very
-          similar to the Lambda Tuning ones. 
+          similar to the Lambda Tuning ones.
       - content: >
           ### Alternative design for load disturbance improvement
 
