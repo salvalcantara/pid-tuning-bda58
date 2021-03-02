@@ -157,7 +157,7 @@ sections:
           *   Make advertisements that convert
           *   Create digital assets for the right audience
       - content: |
-          #### Control engineers
+          #### Control and automation engineers
 
           *   Kickstart your marketing plan and efforts
           *   Upgrade your brand, website and social media
