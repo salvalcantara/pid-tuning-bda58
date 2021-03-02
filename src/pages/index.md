@@ -152,7 +152,7 @@ sections:
       - content: |
           #### Graduate students
 
-          *   Learn about Hinfinity and IMC methodologies
+          *   Learn about H\&infin; and IMC methodologies
           *   Understand their shortcomings and limitations
           *   Systematically blend those approaches
           *   Go from classic to more advanced control theory
