@@ -200,7 +200,7 @@ sections:
     background_image_opacity: 10
 seo:
   title: PID Tuning
-  description: The preview of the Book theme
+  description: The preview of PID Tuning
   extra:
     - name: 'og:type'
       value: website
@@ -209,7 +209,7 @@ seo:
       value: Stackbit Book Theme
       keyName: property
     - name: 'og:description'
-      value: The preview of the Book theme
+      value: The preview of PID Tuning
       keyName: property
     - name: 'og:image'
       value: images/9780367343729.tif
@@ -220,7 +220,7 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Book Theme
     - name: 'twitter:description'
-      value: The preview of the Book theme
+      value: The preview of PID Tuning
     - name: 'twitter:image'
       value: images/book-preview.png
       relativeUrl: true
