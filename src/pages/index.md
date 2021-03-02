@@ -142,12 +142,13 @@ sections:
   - type: grid_section
     title: Who Should Read This Book?
     grid_items:
-      - content: |-
-          #### Marketers
-           - Learn how all of the marketing pieces fit together
-           - Master digital marketing for any business
-           - Get access to marketing gurus and their tips
-           - Prepare killer presentations and collateral
+      - content: |
+          #### Undergraduate students
+
+          *   Learn how all of the marketing pieces fit together
+          *   Master digital marketing for any business
+          *   Get access to marketing gurus and their tips
+          *   Prepare killer presentations and collateral
       - content: |-
           #### Designers
            - Gain big picture insights that affect design
