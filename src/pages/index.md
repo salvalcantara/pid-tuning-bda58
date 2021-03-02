@@ -157,7 +157,7 @@ sections:
           *   Make advertisements that convert
           *   Create digital assets for the right audience
       - content: |
-          #### Teachers/Professors
+          #### Control researchers
 
           *   Kickstart your marketing plan and efforts
           *   Upgrade your brand, website and social media
