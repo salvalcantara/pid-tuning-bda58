@@ -115,7 +115,7 @@ sections:
           proposed method compare to the IMC one? In particular, this chapter
           presents an interpretation of the proposed sensitivity weight in terms
           of IMC filters. To make the analogy closer, the design is reformulated
-          using the H2 norm instead.
+          using the H2 norm.
       - content: >
           ### PID design as a Weighted Sensitivity Problem
 
