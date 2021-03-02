@@ -96,8 +96,8 @@ sections:
           ### Analysis of the smooth/tight-servo/regulation tuning approaches
 
 
-          Now, it makes sense to compare the two considered approaches so far.
-          In particular, the first one, as in traditional IMC, is referred to as
+          It makes sense to compare the two approaches seen so far. In
+          particular, the first one, as in traditional IMC, is referred to as
           Lambda Tuning, while the second one introduces a new parameter and is
           accordingly referred to as Gamma Tuning. Which are the limits of each
           approach and when is one preferred over the other?
