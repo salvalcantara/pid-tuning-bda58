@@ -220,7 +220,7 @@ seo:
     - name: 'twitter:title'
       value: PID Tuning
     - name: 'twitter:description'
-      value: PID Tuning
+      value: PID Tuning preview
     - name: 'twitter:image'
       value: images/book-preview.png
       relativeUrl: true
