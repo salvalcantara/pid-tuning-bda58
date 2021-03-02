@@ -120,9 +120,9 @@ sections:
           ### PID design as a Weighted Sensitivity Problem
 
 
-          This chapter retakes the Hinfinity design and considers the full PID
-          case. Tuning rules are given for the most typical first and second
-          order models found in practice.
+          This chapter retakes the H∞ design and considers the full PID case.
+          Tuning rules are given for the most typical first and second order
+          models found in practice.
       - content: >
           ### PID tuning guidelines for balanced operation
 
