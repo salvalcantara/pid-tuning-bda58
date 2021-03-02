@@ -155,7 +155,7 @@ sections:
           *   Learn about Hinfinity and IMC methodologies
           *   Understand their shortcomings and limitations
           *   Systematically blend those approaches
-          *   Transition from classic to more advanced control theories
+          *   Go from classic to more advanced control theory
       - content: |
           #### Control researchers
 
