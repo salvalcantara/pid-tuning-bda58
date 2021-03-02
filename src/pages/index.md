@@ -146,8 +146,8 @@ sections:
           #### Undergraduate students
 
           *   Derive PID tuning rules analytically
-          *   Consider the Robustness/Performance trade-off
-          *   Consider the Servo/Regulation trade-off
+          *   Tackle Robustness/Performance issues
+          *   Tackle Servo/Regulation issues
           *   Gain insight into the tuning task
       - content: |
           #### Graduate students
