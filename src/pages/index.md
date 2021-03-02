@@ -74,8 +74,8 @@ sections:
           The book starts with a bird's-eye view of the contents. This chapter
           serves as a summary of the main ideas within the chapters to come.
           Although the book has been laid out to be read linearly, this elevated
-          view will help the reader decide the exact route they want to follow,
-          depending on their background and interests.
+          view will help you decide the exact route you want to follow,
+          depending on your background and interests.
       - content: >
           ### Simple model-matching approach to robust PID design
 
