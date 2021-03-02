@@ -127,7 +127,7 @@ sections:
           ### PID tuning guidelines for balanced operation
 
 
-          Finally, how to tuning the two parameters at hand, namely Lambda and
+          Finally, how to tune the two parameters at hand, namely Lambda and
           Gamma, in order to obtain a *balanced* closed-loop? This is the
           question tackled in this final chapter.
     grid_cols: two
