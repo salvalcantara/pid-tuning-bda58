@@ -142,13 +142,18 @@ sections:
   - type: grid_section
     title: Who Should Read This Book?
     grid_items:
-      - content: |
+      - content: >
           #### Undergraduate students
 
-          *   Learn how all of the marketing pieces fit together
-          *   Master digital marketing for any business
-          *   Get access to marketing gurus and their tips
-          *   Prepare killer presentations and collateral
+
+          *   Learn about PID control
+
+          *   Tackle the tuning procedure analytically
+
+          *   Consider the Robustness/Performance and Servo/Regulation
+          trade-offs
+
+          *   Gain insight into the tuning task
       - content: |
           #### Graduate students
 
