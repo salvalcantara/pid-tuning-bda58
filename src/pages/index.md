@@ -106,12 +106,16 @@ sections:
           approaches. The formulation relies on the H∞, or supremum, norm. For
           simplicity, the discussion only considers the application to PI
           tuning, leaving the more general PID case for later.
-      - content: |
+      - content: >
           ### Generalized IMC design and H2 approach
 
-          There is no shortage of analytics tools for marketing campaigns —
-          email platforms, data centers, campaign dashboards and app
-          attribution... How to choose the right tools that will work for you.
+
+          The IMC design philosophy, sometimes called Lambda Tuning in the PID
+          context, is very popular within the control community. How does the
+          proposed method compare to the IMC one? In particular, this chapter
+          presents an interpretation of the proposed sensitivity weight in terms
+          of IMC filters. To make the analogy closer, the design is reformulated
+          using the H2 norm instead.
       - content: |
           ### PID design as a Weighted Sensitivity Problem
 
