@@ -123,12 +123,13 @@ sections:
           This chapter retakes the Hinfinity design and considers the full PID
           case. Tuning rules are given for the most typical first and second
           order models found in practice.
-      - content: |
+      - content: >
           ### PID tuning guidelines for balanced operation
 
-          There is no shortage of analytics tools for marketing campaigns —
-          email platforms, data centers, campaign dashboards and app
-          attribution... How to choose the right tools that will work for you.
+
+          Finally, how to tuning the two parameters at hand, namely Lambda and
+          Gamma, in order to obtain *balanced* closed-loop response. This is the
+          question tackled in this final chapter.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: small
