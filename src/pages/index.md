@@ -159,10 +159,10 @@ sections:
       - content: |
           #### Control researchers
 
-          *   Kickstart your marketing plan and efforts
-          *   Upgrade your brand, website and social media
-          *   Prepare effective collateral for your business
-          *   Start advertising your company online
+          *   Learn about optimal and robust control theory
+          *   Derive PID tuning rules form robust and optimal principles
+          *   Review existing methods in the literature
+          *   Inspire new designs
       - content: |
           #### Control practitioners
 
