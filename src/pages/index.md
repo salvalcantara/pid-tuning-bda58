@@ -116,12 +116,13 @@ sections:
           presents an interpretation of the proposed sensitivity weight in terms
           of IMC filters. To make the analogy closer, the design is reformulated
           using the H2 norm instead.
-      - content: |
+      - content: >
           ### PID design as a Weighted Sensitivity Problem
 
-          There is no shortage of analytics tools for marketing campaigns —
-          email platforms, data centers, campaign dashboards and app
-          attribution... How to choose the right tools that will work for you.
+
+          This chapter retakes the Hinfinity design and considers the full PID
+          case. Tuning rules are given for the most typical first and second
+          order models found in practice.
       - content: |
           ### PID tuning guidelines for balanced operation
 
