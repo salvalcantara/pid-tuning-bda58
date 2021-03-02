@@ -67,11 +67,12 @@ sections:
   - type: grid_section
     title: Full Chapter  Overview
     grid_items:
-      - content: |
+      - content: >
           ### Introduction
 
-          Discovery, research and pure intuition: How to slice and dice all the
-          information you can gather about your customers.
+
+          Presents a bird's-eye view of the book. Summarizing the motivation and
+          main ideas on the chapters to come.
       - content: |
           ### Simple model-matching approach to robust PID design
 
