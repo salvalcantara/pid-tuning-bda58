@@ -82,7 +82,7 @@ sections:
 
           A servo-oriented design is presented under the light of Model Matching
           theory. In particular, the simplest of such problems is addressed. The
-          resulting tuning rules are very similar to the IMC ones.
+          resulting PID tuning rules are very similar to the Lambda Tuning ones.
       - content: >
           ### Alternative design for load disturbance improvement
 
