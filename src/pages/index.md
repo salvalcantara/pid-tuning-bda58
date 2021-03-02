@@ -81,7 +81,9 @@ sections:
 
 
           A servo-oriented design is presented under the light of Model Matching
-          theory. In particular, the simplest of such problems is addressed.
+          theory. In particular, the simplest of such problems is addressed. The
+          resulting tuning rules are along the lines of the conventional
+          IMC-based ones.
       - content: >
           ### Alternative design for load disturbance improvement
 
