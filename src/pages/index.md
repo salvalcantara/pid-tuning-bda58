@@ -80,9 +80,9 @@ sections:
           ### Simple model-matching approach to robust PID design
 
 
-          A servo-oriented design is presented under the light of Model Matching
-          theory. In particular, the simplest of such problems is addressed. The
-          resulting PID tuning rules are very similar to the Lambda Tuning ones.
+          A servo-oriented design is presented under the light of the simplest
+          Model Matching Problem. The resulting PID tuning rules are very
+          similar to the Lambda Tuning ones.
       - content: >
           ### Alternative design for load disturbance improvement
 
