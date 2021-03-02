@@ -166,10 +166,10 @@ sections:
       - content: |
           #### Control practitioners
 
-          *   Understand the context of your product work
-          *   Learn how to segment your audience properly
-          *   Implement brand voice and style in your work
-          *   Connect top of funnel activities with your flow
+          *   See optimal and robust control theory in action
+          *   Consider alternative, more general, tuning rules
+          *   Compare them with Lambda Tuning, Ziegler–Nichols, etc
+          *   Benefit from additional insights 
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
