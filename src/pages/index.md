@@ -83,9 +83,11 @@ sections:
           ### Alternative design for load disturbance improvement
 
 
-          Google, Facebook, TikTok, LinkedIn — what should you use, and how? And
-          how do you know that it's actually working? Build a social media
-          strategy like a pro.
+          In the previous chapter, we obtained tuning rules aimed at good
+          set-point responses. However, as it happens with traditional IMC-based
+          tuning rules, the response to load disturbances can be sluggish. This
+          chapter proposes a modified Model Matching Problem to address this
+          issue.
       - content: >
           ### Analysis of the smooth/tight-servo/regulation tuning approaches
 
