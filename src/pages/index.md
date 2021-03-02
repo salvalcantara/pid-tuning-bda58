@@ -92,8 +92,12 @@ sections:
           ### Analysis of the smooth/tight-servo/regulation tuning approaches
 
 
-          Know your PPC from your CPA and CTR — a quick start guide to
-          performance marketing channels, setups, budgeting and creative.
+          Based on the two previous chapters, it makes sense to compare the two
+          considered approaches. In particular, the first one, as in traditional
+          IMC, is referred to as Lambda Tuning, while the second one introduces
+          a new parameter and is accordingly referred to as Gamma Tuning. Which
+          are the limits of each approach and when is one preferred over the
+          other?
       - content: |
           ### H&infin; design with application to PI tuning
 
