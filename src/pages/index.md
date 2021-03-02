@@ -96,11 +96,10 @@ sections:
           ### Analysis of the smooth/tight-servo/regulation tuning approaches
 
 
-          It makes sense to compare the two approaches seen so far. In
-          particular, the first one, as in traditional IMC, is referred to as
-          Lambda Tuning, while the second one is called Gamma Tuning (in view of
-          the new Gamma parameter it introduces). This chapter studies the
-          limits of each approach.
+          It makes sense to compare the two approaches seen so far. The first
+          one, as in traditional IMC, is referred to as Lambda Tuning, while the
+          second one is called Gamma Tuning. This chapter studies the limits of
+          each approach.
       - content: >
           ### H∞ design with application to PI tuning
 
