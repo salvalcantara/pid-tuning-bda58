@@ -145,7 +145,7 @@ sections:
       - content: |
           #### Undergraduate students
 
-          *   Derive PID tuning rules analytically
+          *   Learn about PID control
           *   Tackle Robustness/Performance issues
           *   Tackle Servo/Regulation issues
           *   Gain insight into the tuning task
