@@ -17,11 +17,6 @@
     }    
 }
 
-.site-title::before{
-content:\"Custom Text\";
-color:#000;
-font-size: 20px;
-}
 .site-title::after{
 content:\"Custom Text\";
 color:#000;
