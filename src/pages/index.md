@@ -115,10 +115,10 @@ sections:
 
           The IMC design philosophy, sometimes called Lambda Tuning in the PID
           context, is very popular within the control community. How does the
-          proposed method compare to the standard IMC? In particular, this
-          chapter presents an interpretation of the proposed sensitivity weight
-          in terms of IMC filters. To make the analogy closer, the design is
-          reformulated using the H2 norm.
+          proposed method compare to standard IMC? In particular, this chapter
+          presents an interpretation of the proposed sensitivity weight in terms
+          of IMC filters. To make the analogy closer, the design is reformulated
+          using the H2 norm.
       - content: >
           ### PID design as a Weighted Sensitivity Problem
 
