@@ -14,7 +14,17 @@
 	img {
 		display: block;
 		max-height: 2.22222rem;
-	}
+    }
+    .site-title::before{
+content:\"Custom Text\";
+color:#000;
+font-size: 20px;
+}
+.site-title::after{
+content:\"Custom Text\";
+color:#000;
+font-size: 20px;
+}
 }
 
 .navbar__menu-btn,
