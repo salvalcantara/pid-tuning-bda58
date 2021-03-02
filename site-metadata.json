@@ -5,7 +5,7 @@
     "mode": "light",
     "base_font": "serif",
     "header": {
-        "title": "Marketing Playbook",
+        "title": "PID Tuning",
         "logo": "images/enthusiastic-lavender.svg",
         "logo_alt": "Marketing Playbook logo",
         "has_primary_nav": true,
