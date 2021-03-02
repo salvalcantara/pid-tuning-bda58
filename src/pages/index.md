@@ -142,17 +142,12 @@ sections:
   - type: grid_section
     title: Who Should Read This Book?
     grid_items:
-      - content: >
+      - content: |
           #### Undergraduate students
 
-
-          *   Learn about PID control
-
-          *   Tackle the tuning procedure analytically
-
-          *   Consider the Robustness/Performance and Servo/Regulation
-          trade-offs
-
+          *   Derive PID tuning rules analytically
+          *   Consider the Robustness/Performance trade-off
+          *   Consider the Servo/Regulation trade-off
           *   Gain insight into the tuning task
       - content: |
           #### Graduate students
