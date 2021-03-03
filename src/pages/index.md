@@ -184,9 +184,9 @@ sections:
       - title: Why This Book?
         subtitle: 'Salva Alcántara, PhD'
         content: >
-          **Feedback Control is ubiquitous.** More lately, it has even started
-          to pop up in more unexpected places, such as in software systems under
-          the guise of reconciliation engine techniques, e.g.,
+          **Feedback Control is ubiquitous.** Lately, it has even started to pop
+          up in more unexpected places, such as in software systems under the
+          guise of reconciliation engine techniques, e.g.,
           [Kubernetes](https://kubernetes.io/docs/concepts/architecture/controller/),
           which, for those who don't know, essentially means
           [cybernetics](https://en.wikipedia.org/wiki/Cybernetics).
@@ -200,15 +200,12 @@ sections:
 
 
           Definitely, there is still room for truly original and unconventional
-          applications of the feedback principle. And you and I will witness
-          that in the years to come.
-
-
-          In the meantime, In this book I will teach you everything I know about
-          B2B marketing. From branding, marketing planning, content creation,
-          SEO and PPC, to segmenting your audience and understanding today's
-          metrics and analytics methodologies — this guide is the only marketing
-          education you'll ever need.
+          applications of the feedback principle. You and I will witness that in
+          the years to come. In the meantime, in this short book I am sharing
+          with you how to tune PID controllers, by far the most common form of
+          feedback, in order to obtain *well-balanced* loops. By all means, this
+          is not a sophisticated book, but I am quite confident that it will be
+          useful and interesting to a wide audience.
         image: images/myFace.jpg
         image_alt: Brandon Guidelines Photo
         media_position: right
