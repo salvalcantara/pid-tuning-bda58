@@ -203,9 +203,10 @@ sections:
           applications of the feedback principle. You and I will witness that in
           the years to come. In the meantime, in this short book I am sharing
           with you how to tune PID controllers, by far the most common form of
-          feedback, in order to obtain *well-balanced* loops. By all means, this
-          is not a sophisticated book, but at the same time I am quite confident
-          that it will be useful and interesting to a wide audience.
+          feedback, in order to obtain *well-balanced* loops in terms of basic
+          conflicting trade-offs. By all means, this is not a sophisticated
+          book, but at the same time I am quite confident that it will be useful
+          and interesting to a wide audience.
         image: images/myFace.jpg
         image_alt: Brandon Guidelines Photo
         media_position: right
