@@ -189,7 +189,7 @@ sections:
           guise of reconciliation engine techniques, e.g.,
           [Kubernetes](https://kubernetes.io/docs/concepts/architecture/controller/),
           which, for those who don't know, essentially means
-          [cybernetics](https://en.wikipedia.org/wiki/Cybernetics).
+          [Cybernetics](https://en.wikipedia.org/wiki/Cybernetics).
 
 
           > **It's interesting how reconciliation-engine techniques have become
