@@ -184,9 +184,9 @@ sections:
       - title: Why This Book?
         subtitle: 'Salva Alcántara, PhD'
         content: >
-          **Feedback Control mechanisms are ubiquitous.** More lately, they have
-          started to pop up even in more unexpected places, such as in software
-          systems under the guise of reconciliation engine techniques, e.g.,
+          **Feedback Control is ubiquitous.** More lately, it has even started
+          to pop up in more unexpected places, such as in software systems under
+          the guise of reconciliation engine techniques, e.g.,
           [Kubernetes](https://kubernetes.io/docs/concepts/architecture/controller/),
           which, for those who don't know, essentially means
           [cybernetics](https://en.wikipedia.org/wiki/Cybernetics).
