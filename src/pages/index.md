@@ -217,7 +217,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    background_image: images/easy.jpg
+    background_image: images/Screenshot 2021-03-03 at 04.12.13.png
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 10
