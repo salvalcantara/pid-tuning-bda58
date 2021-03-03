@@ -192,24 +192,27 @@ sections:
           [cybernetics](https://en.wikipedia.org/wiki/Cybernetics).
 
 
-          > **fdsfsdafsadf fsjfhsdja fhsakjfhksdjfhksajfh ksja fhksajd hfkasjdfh
-          ksajfh ksajd hfkasjdfh ksajf hkasj fhkasjf hksajf hkasjhf ksajfh ksaj
-          hfkjsa hfkjash fksja hfkshfksa fhksjfh ksjfh skjfh skjfh skjfh ksfh
-          ksf hksajf hksafjh ksjaf hkasjfhksajfhks fhsk fhsk fhskd fh."**
+          > **It's interesting how reconcilliation-engine techniques have become
+          widespread. React.js for UI, Kubernetes for container fleets,
+          Cloudformation/Terraform for cloud resources. I wonder where else
+          these techniques can be used?"**
+
+          >
+
+          > **—Li Haoyi** (see the original
+          [tweet](https://twitter.com/li_haoyi/status/1274844647966117888?s=20))
 
 
-          This is not a sophisticated book,
+          Definitely, there is still room for truly original and unconventional
+          applications of the feedback principle. And you and I will witness
+          that in the years to come.
 
 
-          In this book I will teach you everything I know about B2B marketing.
-
-          From branding, marketing planning, content creation, SEO and PPC, to
-
-          segmenting your audience and understanding today's metrics and
-
-          analytics methodologies — this guide is the only marketing education
-
-          you'll ever need.
+          In the meantime, In this book I will teach you everything I know about
+          B2B marketing. From branding, marketing planning, content creation,
+          SEO and PPC, to segmenting your audience and understanding today's
+          metrics and analytics methodologies — this guide is the only marketing
+          education you'll ever need.
         image: images/myFace.jpg
         image_alt: Brandon Guidelines Photo
         media_position: right
