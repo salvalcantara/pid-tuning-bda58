@@ -181,7 +181,7 @@ sections:
     background_image_opacity: 10
   - type: features_section
     features:
-      - title: Why this book?
+      - title: Why This Book?
         subtitle: 'Salva Alcántara, PhD'
         content: |
           **Marketing in the real world** is very different than what we learn
