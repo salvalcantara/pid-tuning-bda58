@@ -12,7 +12,7 @@
         "primary_nav_links": [
             {
                 "label": "Authors",
-                "url": "/story",
+                "url": "/authors",
                 "style": "link"
             },
             {
