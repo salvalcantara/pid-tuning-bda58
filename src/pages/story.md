@@ -1,5 +1,5 @@
 ---
-title: Story About the Book
+title: Story
 seo:
   title: Story About the Book
   description: This is the about page
