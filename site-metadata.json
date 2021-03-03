@@ -12,7 +12,7 @@
         "primary_nav_links": [
             {
                 "label": "Story",
-                "url": "/pricing",
+                "url": "/story",
                 "style": "link"
             },
             {
