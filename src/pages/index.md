@@ -186,7 +186,7 @@ sections:
         content: >
           **Feedback Control is ubiquitous.** Lately, it has even started to pop
           up in more unexpected places, such as in software systems under the
-          guise of reconciliation engine techniques, e.g.,
+          guise of reconciliation-engine techniques, e.g.,
           [Kubernetes](https://kubernetes.io/docs/concepts/architecture/controller/),
           which, for those who don't know, essentially means
           [Cybernetics](https://en.wikipedia.org/wiki/Cybernetics).
