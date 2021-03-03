@@ -166,10 +166,10 @@ sections:
       - content: |
           #### Control practitioners
 
-          *   See optimal and robust control theory in action
-          *   Consider alternative, more general, tuning rules
-          *   Compare them with Lambda Tuning, Ziegler–Nichols, etc
-          *   Benefit from additional insights 
+          *   See optimal and robust control in action
+          *   Consider new tuning rules
+          *   Compare with Lambda Tuning, Ziegler–Nichols, etc
+          *   Benefit from additional insights
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
