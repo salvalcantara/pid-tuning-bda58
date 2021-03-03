@@ -204,9 +204,8 @@ sections:
           the years to come. In the meantime, in this short book I am sharing
           with you how to tune PID controllers, by far the most common form of
           feedback, in order to obtain *well-balanced* loops in a rather
-          unconventional, somewhat original, way. Ultimately, I am quite
-          confident that the book will be useful and interesting to a wide
-          audience.
+          unconventional—somewhat original—way. Ultimately, I am quite confident
+          that the book will be useful and interesting to a wide audience.
         image: images/myFace.jpg
         image_alt: Brandon Guidelines Photo
         media_position: right
