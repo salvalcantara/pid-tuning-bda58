@@ -205,8 +205,9 @@ sections:
           with you how to tune PID controllers, by far the most common form of
           feedback, in order to obtain *well-balanced* loops in terms of basic
           conflicting trade-offs. By all means, this is not a sophisticated
-          book, but at the same time I am quite confident that it will be useful
-          and interesting to a wide audience.
+          book, but at the same time it focuses on analytical designs with the
+          required level of rigor and I am quite confident that it will be
+          useful and interesting to a wide audience.
         image: images/myFace.jpg
         image_alt: Brandon Guidelines Photo
         media_position: right
