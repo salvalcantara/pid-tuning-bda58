@@ -206,8 +206,8 @@ sections:
           feedback, in order to obtain *well-balanced* loops in terms of basic
           conflicting trade-offs. By all means, this is not a sophisticated
           book, but at the same time it focuses on analytical designs with the
-          required level of rigor and I am quite confident that it will be
-          useful and interesting to a wide audience.
+          required level of rigor. Ultimately, I am quite confident that the
+          book will be useful and interesting to a wide audience.
         image: images/myFace.jpg
         image_alt: Brandon Guidelines Photo
         media_position: right
