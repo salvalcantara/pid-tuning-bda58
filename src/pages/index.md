@@ -159,8 +159,8 @@ sections:
       - content: |
           #### Control researchers
 
-          *   Review basic optimal & robust control theory
-          *   Review PID tuning from optimal & robust principles
+          *   Review basic optimal and robust control theory
+          *   Review PID tuning from optimal and robust principles
           *   Review existing methods in the literature
           *   Inspire new designs
       - content: |
