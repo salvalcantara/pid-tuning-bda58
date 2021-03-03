@@ -195,7 +195,7 @@ sections:
           > **It's interesting how reconcilliation-engine techniques have become
           widespread. React.js for UI, Kubernetes for container fleets,
           Cloudformation/Terraform for cloud resources. I wonder where else
-          these techniques can be used?" —Li Haoyi** (see the original
+          these techniques can be used?"—Li Haoyi** (see the original
           [tweet](https://twitter.com/li_haoyi/status/1274844647966117888?s=20))
 
 
