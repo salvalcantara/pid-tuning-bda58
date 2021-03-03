@@ -166,7 +166,7 @@ sections:
       - content: |
           #### Control practitioners
 
-          *   See optimal and robust control in action
+          *   See optimal and robust control at the PID level
           *   Consider new tuning rules
           *   Compare with Lambda Tuning, Ziegler–Nichols, etc
           *   Benefit from additional insights
