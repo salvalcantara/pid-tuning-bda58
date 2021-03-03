@@ -185,14 +185,14 @@ sections:
         subtitle: 'Salva Alcántara, PhD'
         content: >
           **Feedback Control is ubiquitous.** Lately, it has even started to pop
-          up in unexpected places, such as in software systems under the guise
-          of reconciliation engine techniques, e.g.,
+          up in more unexpected places, such as in software systems under the
+          guise of reconciliation engine techniques, e.g.,
           [Kubernetes](https://kubernetes.io/docs/concepts/architecture/controller/),
           which, for those who don't know, essentially means
           [cybernetics](https://en.wikipedia.org/wiki/Cybernetics).
 
 
-          > **It's interesting how reconcilliation-engine techniques have become
+          > **It's interesting how reconciliation-engine techniques have become
           widespread. React.js for UI, Kubernetes for container fleets,
           Cloudformation/Terraform for cloud resources. I wonder where else
           these techniques can be used?"—Li Haoyi** (see the original
