@@ -183,21 +183,49 @@ sections:
     features:
       - title: Why This Book?
         subtitle: 'Salva Alcántara, PhD'
-        content: |
+        content: >
           **Marketing in the real world** is very different than what we learn
+
           at school. If you've recently graduated and are making your first
+
           steps in the business, it's imperative that you know how to use the
+
           tools and tricks of the trade.
 
+
           > **The world of marketing has changed dramatically in the last 10
+
           > years. Those who understand it, will succeed. But those who stay
+
           > behind, will have a lot to catch up on.”**
 
+
           In this book I will teach you everything I know about B2B marketing.
+
           From branding, marketing planning, content creation, SEO and PPC, to
+
           segmenting your audience and understanding today's metrics and
+
           analytics methodologies — this guide is the only marketing education
+
           you'll ever need.
+
+
+          **Feedback Control mechanisms are ubiquitous.** More lately, they have
+          started to pop up even in more unexpected places, such as in software
+          systems under the guise of reconciliation engine techniques, e.g.,
+          [Kubernetes](https://kubernetes.io/docs/concepts/architecture/controller/),
+          which, for those who don't know, essentially means
+          [cybernetics](https://en.wikipedia.org/wiki/Cybernetics).
+
+
+          > **fdsfsdafsadf fsjfhsdja fhsakjfhksdjfhksajfh ksja fhksajd hfkasjdfh
+          ksajfh ksajd hfkasjdfh ksajf hkasj fhkasjf hksajf hkasjhf ksajfh ksaj
+          hfkjsa hfkjash fksja hfkshfksa fhksjfh ksjfh skjfh skjfh skjfh ksfh
+          ksf hksajf hksafjh ksjaf hkasjfhksajfhks fhsk fhsk fhskd fh**
+
+
+          This is not a sophisticated book, 
         image: images/myFace.jpg
         image_alt: Brandon Guidelines Photo
         media_position: right
