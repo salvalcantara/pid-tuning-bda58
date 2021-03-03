@@ -146,8 +146,8 @@ sections:
           #### Undergraduate students
 
           *   Learn about PID control
-          *   Tackle Robustness/Performance issues
-          *   Tackle Servo/Regulation issues
+          *   Tackle robustness/performance issues
+          *   Tackle servo/regulation issues
           *   Gain insight into the tuning task
       - content: |
           #### Graduate students
