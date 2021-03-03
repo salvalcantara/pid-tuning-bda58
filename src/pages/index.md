@@ -181,7 +181,7 @@ sections:
     background_image_opacity: 10
   - type: features_section
     features:
-      - title: Feedback And This Book
+      - title: Why This Book
         subtitle: 'Salva Alcántara, PhD'
         content: >
           **Feedback Control is ubiquitous.** Lately, it has even started to pop
