@@ -19,7 +19,6 @@
     "type": "image/png"
   }, {
     "src": "/images/favicon/favicon.ico",
-    "sizes": "512x512",
     "type": "image/ico"
   }],
   "theme_color": "#ffffff",
