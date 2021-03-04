@@ -24,6 +24,7 @@ export default class Body extends React.Component {
                     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png"/>
                     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png"/>
                     <link rel="manifest" href="/images/favicon/site.webmanifest"></link>
+                    
                     {_.get(this.props, 'pageContext.frontmatter.seo.robots', null) && (
                     <meta name="robots" content={_.join(_.get(this.props, 'pageContext.frontmatter.seo.robots', null), ',')}/>
                     )}
