@@ -60,7 +60,7 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: primary
-    background_image: images/background-2.jpg
+    background_image: images/tuning-sample.svg
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 10
