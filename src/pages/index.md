@@ -14,8 +14,7 @@ sections:
       introduction to these more advanced topics.
     actions:
       - label: Buy Now
-        url: >-
-          https://www.amazon.com/-/es/Salvador-Alc%C3%A1ntara-Cano-ebook/dp/B08NCNRBKG/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=pid+tuning+alc%C3%A1ntara&qid=1614573662&sr=8-1
+        url: 'https://www.amazon.com/dp/036734372X'
         style: primary
         has_icon: false
         icon: arrow-right
