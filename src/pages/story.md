@@ -1,5 +1,5 @@
 ---
-title: Erratum
+title: Story
 seo:
   title: ''
   description: ''
